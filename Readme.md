@@ -1,4 +1,5 @@
 CoQuEST: Entity-Focused Code-Mixed Question Generation for Entertainment Videos
+
 This repository contains the code and resources for our paper, "CoQuEST: Entity-Focused Code-Mixed Question Generation for Entertainment Videos." The project introduces a novel framework for generating semantically rich, entity-centric, and information-driven questions in a code-mixed Hindi-English (Hinglish) format, focusing on multilingual and multicultural relevance.
 
 Abstract
